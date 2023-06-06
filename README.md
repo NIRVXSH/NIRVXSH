@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sedtanan Mosaleeyanon</h1>
+<h1 align="center">Hi 👋, I'm Fook</h1>
 <h3 align="center">I’m currently learning Bachelor of Engineering Program in Electronics Engineering Technology (Computer) King Mongkut's University of Technology North Bangkok</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirvxsh&label=Profile%20views&color=0e75b6&style=flat" alt="nirvxsh" /> </p>

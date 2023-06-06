@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🌱 I’m currently learning Bachelor of Engineering Program in Electronics Engineering
+Technology (Computer)
 <!--
 **NIRVXSH/NIRVXSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

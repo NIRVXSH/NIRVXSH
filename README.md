@@ -1,6 +1,6 @@
 <h1 align="center"> NIRVXSH </h1>
-
-<h3 align="center"> My name is Fook</h5>
+<h2 align="center"> Sedtanan Mosaleeyanon</h2>
+<h3 align="center"> My name is Fook</h3>
 
 ## 🌐 Socials:
 

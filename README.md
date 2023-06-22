@@ -1,5 +1,5 @@
 <h1 align="center"> NIRVXSH </h1>
-<h2 align="center"> Sedtanan Mosaleeyanon</h2>
+<h2 align="center"><i>  Sedtanan Mosaleeyanon</></h2>
 <h3 align="center"> My name is Fook</h3>
 
 ## 🌐 Socials:

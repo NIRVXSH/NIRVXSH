@@ -1,7 +1,7 @@
 <h1 align="center"> NIRVXSH </h1>
 <h2 align="center"><i>  Sedtanan Mosaleeyanon</></h2>
 <h3 align="center"> My name is Fook</h3>
-MY PORTFOLIO: https://nirvxsh.github.io/
+<h4 align="center">MY PORTFOLIO: https://nirvxsh.github.io/</h4>
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Rocket.love.love555/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fook_stn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sedtanan-mosaleeyanon-105999273/?original_referer=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2F&originalSubdomain=th) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nirvxsh) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/nirvxsh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCgnNiszV80VpA_dHGHqETmg) 
